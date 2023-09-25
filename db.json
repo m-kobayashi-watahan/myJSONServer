@@ -1,8 +1,12 @@
 {
-  account:[
-  {
-  "id": 1,
-  "password": "test"
-  }
+  "account": [
+    {
+        "id": 1,
+        "password": "test"
+    },
+    {
+        "id": 2,
+        "password": "test"
+    }  
   ]
 }
